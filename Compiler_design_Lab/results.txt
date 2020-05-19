@@ -1,0 +1,11 @@
+10 12 14 16 16 11
+words= 15
+spaces= 10
+literals= 4
+// 4
+aaaaaaaaaaa 1
+abc 2
+defg 2
+ijklm 2
+nopqrs 2
+tuvwxyz 2
