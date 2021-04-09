@@ -1,6 +1,0 @@
-abc abc //
-defg defg //
-ijklm ijklm //
-nopqrs nopqrs //
-tuvwxyz tuvwxyz 
-aaaaaaaaaaa
