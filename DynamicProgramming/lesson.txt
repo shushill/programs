@@ -1,0 +1,70 @@
+
+product + service 
+service = 5 lakh max = A+B + project(2) = Infosys + TCS + Wipro + cognizant + accenture + HP (not necessary)
+product = 10 lakh (starting)= codeforces A + B + C + D + project(2) == Amazon (WoW) + goldmann sachs + microsoft + adobe (women) + girls round + Visa + cisco
+startup =  A + B + C + D + E + project(2)== Directi + Intuit + postman + CRED + inMobi
+
+
+C + D = string , array, dynamic programming, graph, tree
+
+product company = almost 5 rounds
+                    1. online test = codeforces C + D ques
+                    2. interview = introduction + simple question A + B
+                    3. second interview = project(2) or codeforces C 
+                    4. third interview = project(2) or Computer ( Operating system, DBMS, SQL)
+                    5. 4th round = managerial round (behaviour test)
+
+A + B = brute force approach 
+C + D = algorithms (all company (product MNC )) 
+
+
+Algorithm = brute force approach(A+B) + optimization approach (C+D) = A+B+C+D
+
+optimization approach = iterative + recursive way  = solving method
+
+80% of (C +D) = iterative method (easy to learn but tough to solve)
+20% of (C+D) = recursion method (tough to learn but easy to solve)
+
+optimization approcah measuring method = Time complexity + space complexity 
+
+codeforces only cares about time complexity. 
+
+But in Interview = Time complexity + space complexity 
+
+codeforces = (A+B) = brute force approach 
+
+codeforces (C + D) = optimization approach 
+
+Interview =  50 min = 10 min talking + 1 min (question) + 10 min (thinking) + (A+B) brute force approach 10 min + (C+D) optimization approach (19 min) + verbal communication
+
+codeforces = Div 1 + div 2 + div 3 
+contest = 8 pm + 2 pm 
+contest type = educational contest + normal contest 
+
+C+D optimization = C++ Is easy for this 
+                Time complexity 
+                space complexity 
+                maths 
+                string
+                array 
+                dynamic programming
+                graph
+                tree
+
+A+B = string , array , maths , random question, search, sort 
+
+codeforces = 0 to 800 ratiing (A+B)
+            800 to 1200 rating (C)
+            1200 to 1600 rating (D)
+            1600 above (E+F+G)
+
+april to september = A+B+C + learning + daily atleast 1 question = no ability to solve a question
+september to december = progress + daily atleast 2 question 
+
+resume learning in december.
+
+december to next year may = exam of all company for internship = next (may to july ) = product based 
+
+next year = college company = serive based 
+
+optimization = next learning lesson but A+B is mandatory for this.
